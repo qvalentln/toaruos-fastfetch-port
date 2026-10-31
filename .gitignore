@@ -1,0 +1,5 @@
+ff-build/
+build-toaru/
+*.log
+*.o
+fastfetch
